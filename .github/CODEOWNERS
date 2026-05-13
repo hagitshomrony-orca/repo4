@@ -1,0 +1,8 @@
+# This is a comment.
+# Each line is a filter followed by one or more owners.
+
+# Default owner for everything in the repo
+*       @blachshma
+
+# Data science team owns all Python files
+*.py    @bla2
