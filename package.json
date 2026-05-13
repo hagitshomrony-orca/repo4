@@ -1,0 +1,10 @@
+{
+  "name": "test-alerts-repo",
+   "//": "This is a top-level comment",
+  "version": "1.0.0",
+  "dependencies": {
+    "lodash": "4.17.4",
+    "minimist": "1.2.0",
+    "node-forge": "0.10.0"
+  }
+}
