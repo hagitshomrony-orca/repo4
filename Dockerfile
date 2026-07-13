@@ -1,4 +1,4 @@
-# Bad: uses :latest tag (CKV_DOCKER_7 / DL3007) :O
+# Bad: uses :latest tag (CKV_DOCKER_7 / DL3007)
 FROM ubuntu:latest
 
 # Bad: hardcoded secrets in env
